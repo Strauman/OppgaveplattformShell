@@ -5,3 +5,5 @@ bin/main.log
 bin/main.out
 bin/*
 .DS_Store
+*.bak
+*.log
