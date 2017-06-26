@@ -1,14 +1,9 @@
-\IfFileExists{platform/platform.tex}{
-	\def\platformdir{platform}
-}{
-	\IfFileExists{plattform/platform.tex}{
-		\def\platformdir{plattform}
-	}{
 
-	}
-}
-\ifx\platformdir\empty{
-	{\color{red}\Huge Platform not found}
-}{
-	\input{\platformdir/platform}
+\def\platformdir{platform}
+%%%%
+\IfFileExists{\platformdir/platform.tex}{\input{\platformdir/platform}}{
+\documentclass{article}
+\begin{document}
+  {\centering\Huge Platform not found}
+\end{document}
 }
