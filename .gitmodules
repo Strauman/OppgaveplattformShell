@@ -1,0 +1,3 @@
+[submodule "plattform"]
+	path = plattform
+	url = https://github.com/Strauman/Oppgaveplattform
