@@ -1,0 +1,5 @@
+bin/main.aux
+bin/main.fdb_latexmk
+bin/main.fls
+bin/main.log
+bin/main.out
