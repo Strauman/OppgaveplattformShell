@@ -7,3 +7,6 @@ bin/*
 .DS_Store
 *.bak
 *.log
+*/bin/*
+sett/*/bin/*
+*.gz
