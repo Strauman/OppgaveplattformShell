@@ -12,4 +12,8 @@ Lag en fil som heter `1.tex` og legg den i`sett/`-mappa. Gå i `config.tex` og s
 
 ## Som zip fil:
 GitHub zip fil vil ikke gi submoduler med i nedlastinger, så https://github.com/Strauman/Oppgaveplattform må legges inn med mappenavn "platform" for at dette skal virke.
-Last ned som zip-fil.
+Last ned som zip-fil:
+
+1) Last ned [Denne zipfila](https://github.com/Strauman/OppgaveplattformShell/archive/master.zip)
+2) Pakk den ut, og last ned [denne zipfila](https://github.com/Strauman/Oppgaveplattform/archive/master.zip)
+3) Pakk ut den siste zipfila, og kall mappen `platform`. Legg den inni mappa til den første zipfila.
