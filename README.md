@@ -19,6 +19,6 @@ Last ned som zip-fil:
 # Quick start:
 Etter installasjonen:
 
-Lag en fil som heter `1.tex` og legg den i`sett/`-mappa. Gå i `config.tex` og sørg for at `\Sets{1}` er i fila. Bygg (`main.tex`). And you're golden. Les gjerne [`readme.pdf`](https://github.com/Strauman/Oppgaveplattform/blob/master/readme.pdf).
+Lag en fil som heter `1.tex` og legg den i`sett/`-mappa. Endre filnavnet til fila `config-sample.tex` og kall den `config.tex`. Sørg for at `\Sets{1}` er i config-fila. Bygg (`main.tex`). And you're golden. Les gjerne [`readme.pdf`](https://github.com/Strauman/Oppgaveplattform/blob/master/readme.pdf).
 
 
