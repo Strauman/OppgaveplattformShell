@@ -1,3 +1,4 @@
 [submodule "platform"]
 	path = platform
 	url = https://github.com/Strauman/Oppgaveplattform
+	branch = master
